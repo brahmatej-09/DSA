@@ -5,6 +5,7 @@ public class Even_Odd {
         int n = sc.nextInt();
         if(n%2==0) System.out.println("even");
         else System.out.println("odd");
+        sc.close();
     }
     
 }
