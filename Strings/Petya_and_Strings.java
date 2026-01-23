@@ -7,7 +7,7 @@ public class Petya_and_Strings {
         String str2 = sc.next();
         str1 = str1.toLowerCase();
         str2 = str2.toLowerCase();
-        boolean flag = true;
+        boolean flag = true;g
         for(int i=0;i<str1.length();i++){
             int one = (int)str1.charAt(i);
             int two = (int)str2.charAt(i);
