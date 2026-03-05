@@ -14,6 +14,7 @@ public class basic {
             st.push(arr[i]);
         }
         print(st);
+        sc.close();
     }
     private static void print(Stack<Integer> st) {
         while(st.size()>0){
