@@ -18,5 +18,4 @@ public class Same_Tree {
     public static boolean isSameTree(TreeNode p, TreeNode q) {
         return false;
     }
-    
 }
